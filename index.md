@@ -11,3 +11,7 @@ def some_kind_of_code
   :whatever
 end
 ```
+
+- [ ] Item 1
+- [ ] Item 2
+- [ ] Item 3
